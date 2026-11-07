@@ -15,3 +15,4 @@ airbnb.com
 - Traza de ia 2.5: [traza-fuera-de-alcance.md](agente/traza-fuera-de-alcance.jsonl)
 - Comprobaciones de alcance: [pruebas.md](agente/pruebas.md)
 - Herramientas usadas en el agente: [tus_herramientas.md](agente/src/tus_herramientas.py)
+- Comparativa: [comparativa.md](comparativa.md)
